@@ -3,13 +3,28 @@ body
     color: deepskyblue;
     text-align: center;
     font-family: "Arial";
+    margin: 0;
+    padding: 0;
 }
 
 #cabecera
 {
+    width: 75%;
     color: darkgreen;
-    text-align: center;
+    text-align: left;
     font-family: "Cambria";    
     border-color: blue;
     border-style: solid;
+    padding: 0;
+    margin: 0 auto;
+}
+
+#cabecera span
+{
+    color: rgb(237, 253, 17);
+    text-align: left;
+    font-family: serif;    
+    border-style: solid;
+    padding: 0;
+    margin: 0 auto;
 }
