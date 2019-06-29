@@ -2,5 +2,29 @@ body
 {
     color: rgb(0, 17, 255);
     text-align: center;
-    font-family: 'Courier New';
+    font-family: "Arial";
+    margin: 0;
+    padding: 0;
+}
+
+#cabecera
+{
+    width: 75%;
+    color: darkgreen;
+    text-align: left;
+    font-family: "Cambria";    
+    border-color: blue;
+    border-style: solid;
+    padding: 0;
+    margin: 0 auto;
+}
+
+#cabecera span
+{
+    color: rgb(237, 253, 17);
+    text-align: left;
+    font-family: serif;    
+    border-style: solid;
+    padding: 0;
+    margin: 0 auto;
 }
