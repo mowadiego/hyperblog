@@ -4,3 +4,12 @@ body
     text-align: center;
     font-family: "Arial";
 }
+
+#cabecera
+{
+    color: darkgreen;
+    text-align: center;
+    font-family: "Cambria";    
+    border-color: blue;
+    border-style: solid;
+}
