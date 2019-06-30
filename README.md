@@ -4,7 +4,7 @@ Blog de ejemplo para el curso de Git y GitHub de Platzi
 
 Este Readme.md ***markdown*** es un archivo con un formato "propio", este se hizo en la aplicacion web Editor.md que es un editor web online: *Open source online Markdown editor* puedes ir a su pagina dando click en el siguiente [enlace](https://pandao.github.io/editor.md/en.html "Ir al editor web online") 
 
-
+>OneMoreTime
 
 >-Diego Alvitres Romero.
 
