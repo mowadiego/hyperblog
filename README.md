@@ -1,4 +1,4 @@
-#Blog inicial  🔰
+#####Blog inicial  🔰
 
 Blog de ejemplo para el curso de Git y GitHub de Platzi
 
